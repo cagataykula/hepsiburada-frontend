@@ -9,6 +9,7 @@ services:
     build: ./frontend
     ports:
       - "3005:3000"
+    stdin_open: true
     container_name: hepsiburada-frontend
     depends_on:
       - api
