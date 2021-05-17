@@ -1,0 +1,31 @@
+.filter-wrapper {
+  display: flex;
+  flex-direction: column;
+  .filter {
+    margin-top: 20px;
+    .filter-title {
+      font-family: Roboto;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 500;
+      color: #484848;
+    }
+    ul {
+      margin: 0;
+      padding: 0;
+      li {
+        list-style: none;
+        font-family: Roboto;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        color: #646464;
+        cursor: pointer;
+        margin-top: 5px;
+        &:hover, &.active {
+          color: #FF6000;
+        }        
+      }
+    }
+  }
+}

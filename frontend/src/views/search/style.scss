@@ -1,0 +1,63 @@
+.container {
+	padding: 30px;
+	.layout-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+		margin-bottom: 15px;
+		.page-title {
+			h1 {
+				font-family: Roboto;
+				font-size: 1.6rem;
+				font-style: normal;
+				font-weight: 700;
+				margin: 0;
+			}
+			h3.subtitle {
+				font-family: Roboto;
+				font-size: 1rem;
+				font-style: normal;
+				font-weight: 400;
+				margin-top: 5px;
+				span {
+					color: #484848;
+				}
+			}
+		}
+
+    .order-filter-wrapper {
+
+    }
+	}
+	.layout-content {
+		display: flex;
+		.search-filters {
+			width: 15%;
+		}
+		.search-results {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: flex-start;
+			width: 100%;
+			width: 85%;
+		}
+		.pages {
+			list-style: none;
+			li {
+				float: left;
+				width: 25px;
+				height: 25px;
+				border: 1px solid #EEEEEE;
+				border-radius: 4px;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				margin-left: 10px;
+				cursor: pointer;
+				&.active, &:hover {
+					color: #EE6A2C
+				}
+			}
+		}
+	}
+}

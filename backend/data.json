@@ -1,0 +1,602 @@
+[
+	{
+		"title": "iPhone 11 64 GB",
+		"price": "7.099,89",
+		"oldPrice": "7.999,00",
+		"discountRatio": "11",
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10986386784306.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 0
+	},
+	{
+		"title": "iPhone 11 128 GB",
+		"price": "7.799,89",
+		"oldPrice": "8.449,00",
+		"discountRatio": "8",
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10986386554930.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 1
+	},
+	{
+		"title": "Apple Lightning - USB Kablosu (1 m) - MXLY2ZM/A",
+		"price": "199,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/37/280-413/10557458481202.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 2
+	},
+	{
+		"title": "Apple USB Priz Adaptörü MD813ZM/A (Apple Türkiye Garantili)",
+		"price": "94,90",
+		"oldPrice": "129,00",
+		"discountRatio": "26",
+		"productImage": "https://productimages.hepsiburada.net/s/1/280-413/9519368667186.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 3
+	},
+	{
+		"title": "Apple Lightning - 3,5 mm Kulaklık Jakı Adaptörü - MMX62ZM/A",
+		"price": "89,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/2/280-413/9553661362226.jpg",
+		"brand": "Apple",
+		"color": "Beyaz",
+		"id": 4
+	},
+	{
+		"title": "Apple USB-C - Lightning Kablosu (1 m) - MQGJ2ZM/A",
+		"price": "199,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/2/280-413/9549314326578.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 5
+	},
+	{
+		"title": "iPhone 12 64 GB",
+		"price": "10.249,90",
+		"oldPrice": "10.999,00",
+		"discountRatio": "7",
+		"productImage": "https://productimages.hepsiburada.net/s/76/280-413/110000018213470.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 6
+	},
+	{
+		"title": "iPhone SE 64 GB",
+		"price": "4.899,90",
+		"oldPrice": "5.299,00",
+		"discountRatio": "8",
+		"productImage": "https://productimages.hepsiburada.net/s/66/280-413/110000007422599.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 7
+	},
+	{
+		"title": "iPhone 11 256 GB",
+		"price": "8.599,90",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10986390454322.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 8
+	},
+	{
+		"title": "iPhone 12 128 GB",
+		"price": "11.198,88",
+		"oldPrice": "11.499,00",
+		"discountRatio": "3",
+		"productImage": "https://productimages.hepsiburada.net/s/76/280-413/110000018213462.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 9
+	},
+	{
+		"title": "iPhone 12 Pro Max 128 GB",
+		"price": "16.319,04",
+		"oldPrice": "16.999,00",
+		"discountRatio": "4",
+		"productImage": "https://productimages.hepsiburada.net/s/66/280-413/110000007422583.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 10
+	},
+	{
+		"title": "iPhone 12 256 GB",
+		"price": "11.899,90",
+		"oldPrice": "12.499,00",
+		"discountRatio": "5",
+		"productImage": "https://productimages.hepsiburada.net/s/76/280-413/110000018213470.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 11
+	},
+	{
+		"title": "iPhone 12 Mini 128 GB",
+		"price": "9.764,07",
+		"oldPrice": "10.499,00",
+		"discountRatio": "7",
+		"productImage": "https://productimages.hepsiburada.net/s/76/280-413/110000018213526.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 12
+	},
+	{
+		"title": "Apple Lightning (2m) USB Kablo - MD819ZM/A",
+		"price": "279,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/1/280-413/9570121646130.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 13
+	},
+	{
+		"title": "iPhone 12 Pro 256 GB",
+		"price": "14.899,90",
+		"oldPrice": "15.999,00",
+		"discountRatio": "7",
+		"productImage": "https://productimages.hepsiburada.net/s/66/280-413/110000007422535.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 14
+	},
+	{
+		"title": "iPhone SE 128 GB",
+		"price": "5.399,90",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/66/280-413/110000007422613.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 15
+	},
+	{
+		"title": "iPhone XR 64 GB",
+		"price": "6.299,00",
+		"oldPrice": "7.099,00",
+		"discountRatio": "11",
+		"productImage": "https://productimages.hepsiburada.net/s/50/280-413/11030110109746.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 16
+	},
+	{
+		"title": "Apple iPhone 12 - 12 Pro Silikon Kılıf MagSafe Derin Mavi - MHL43ZM/A",
+		"price": "499,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978353512498.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 17
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 7 32 GB (12 Ay Garantili)",
+		"price": "2.289,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/1/280-413/9502145151026.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 18
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 6 16 GB (12 Ay Garantili)",
+		"price": "1.019,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/5/280-413/9694870798386.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 19
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 6 32 GB (12 Ay Garantili)",
+		"price": "1.289,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/5/280-413/9694870569010.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 20
+	},
+	{
+		"title": "Apple iPhone 8 / 7 SE Silikon Kılıf, Siyah",
+		"price": "149,00",
+		"oldPrice": "279,00",
+		"discountRatio": "47",
+		"productImage": "https://productimages.hepsiburada.net/s/1/280-413/9541194874930.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 21
+	},
+	{
+		"title": "Apple iPhone 11 Şeffaf Kılıf - MWVG2ZM/A",
+		"price": "399,01",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/32/280-413/10365174087730.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 22
+	},
+	{
+		"title": "iPhone 12 Pro Max 256 GB",
+		"price": "17.699,00",
+		"oldPrice": "17.999,00",
+		"discountRatio": "2",
+		"productImage": "https://productimages.hepsiburada.net/s/66/280-413/110000007422583.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 23
+	},
+	{
+		"title": "Apple iPhone 11 Silikon Kılıf - Siyah - MWVU2ZM/A",
+		"price": "399,01",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/32/280-413/10365174251570.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 24
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 6S 32 GB (12 Ay Garantili)",
+		"price": "1.549,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/5/280-413/9696823115826.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 25
+	},
+	{
+		"title": "Apple iPhone 12 - 12 Pro Silikon Kılıf MagSafe Siyah - MHL73ZM/A",
+		"price": "499,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978354167858.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 26
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 8 64 GB (12 Ay Garantili)",
+		"price": "3.479,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/6/280-413/9713650237490.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 27
+	},
+	{
+		"title": "Apple iPhone 12 - 12 Pro Şeffaf Kılıf MagSafe - MHLM3ZM/A",
+		"price": "499,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978351939634.jpg",
+		"brand": "Apple",
+		"color": "Siyah",
+		"id": 28
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 5S 16 GB (12 Ay Garantili)",
+		"price": "879,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/5/280-413/9679238823986.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 29
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 7 Plus 32 GB (12 Ay Garantili)",
+		"price": "3.419,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/6/280-413/9748758429746.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 30
+	},
+	{
+		"title": "iPhone 7 32 GB",
+		"price": "4.245,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/31/280-413/10352774316082.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 31
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 6S 64 GB (12 Ay Garantili)",
+		"price": "1.729,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/7/280-413/9757130555442.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 32
+	},
+	{
+		"title": "Apple iPhone 12 Mini Silikon Kılıf MagSafe Derin Mavi - MHKU3ZM/A",
+		"price": "499,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978354528306.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 33
+	},
+	{
+		"title": "Apple USB-C - Lightning Kablosu (2 m) - MKQ42ZM/A (Apple Türkiye Garantili)",
+		"price": "329,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/2/280-413/9549314195506.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 34
+	},
+	{
+		"title": "Apple iPhone 12 Mini Deri Kılıf MagSafe Baltık Mavisi - MHK83ZM/A",
+		"price": "599,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978354331698.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 35
+	},
+	{
+		"title": "Apple Lightning - USB Kablosu (0,5 m) - ME291ZM",
+		"price": "199,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/1/280-413/9570121777202.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 36
+	},
+	{
+		"title": "Apple iPhone 8 / 7 SE Silikon Kılıf, Kum Pembesi",
+		"price": "149,00",
+		"oldPrice": "279,00",
+		"discountRatio": "47",
+		"productImage": "https://productimages.hepsiburada.net/s/1/280-413/9538616066098.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 37
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 6S 16 GB (12 Ay Garantili)",
+		"price": "1.279,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/5/280-413/9696822657074.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 38
+	},
+	{
+		"title": "Apple iPhone 12 Mini Deri Kılıf MagSafe Siyah - MHKA3ZM/A",
+		"price": "599,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978354430002.jpg",
+		"brand": "Apple",
+		"color": "Sarı",
+		"id": 39
+	},
+	{
+		"title": "Apple iPhone Lightning Dock Space Gray - ML8H2TU/A (Apple Türkiye Garantili)",
+		"price": "379,00",
+		"oldPrice": "429,00",
+		"discountRatio": "12",
+		"productImage": "https://productimages.hepsiburada.net/s/10/280-413/9200914595890.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 40
+	},
+	{
+		"title": "Apple iPhone 12 - 12 Pro Deri Kılıf MagSafe Siyah - MHKG3ZM/A",
+		"price": "599,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978353119282.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 41
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 7 Plus 128 GB (12 Ay Garantili)",
+		"price": "3.889,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/18/280-413/9792995164210.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 42
+	},
+	{
+		"title": "iPhone 12 Pro Max 512 GB",
+		"price": "18.971,00",
+		"oldPrice": "19.999,00",
+		"discountRatio": "5",
+		"productImage": "https://productimages.hepsiburada.net/s/66/280-413/110000007422583.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 43
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 8 Plus 64 GB (12 Ay Garantili)",
+		"price": "4.519,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/6/280-413/9713619468338.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 44
+	},
+	{
+		"title": "Apple iPhone 12 Pro Max Silikon Kılıf MagSafe Siyah - MHLG3ZM/A",
+		"price": "499,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978355118130.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 45
+	},
+	{
+		"title": "Apple iPhone 12 Pro Max Silikon Kılıf MagSafe Siyah - MHLG3ZM/A",
+		"price": "499,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978355118130.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 46
+	},
+	{
+		"title": "Apple iPhone 12'ler için Deri Cüzdan MagSafe Siyah - MHLR3ZM/A",
+		"price": "599,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978355347506.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 47
+	},
+	{
+		"title": "iPhone 12 Mini 256 GB",
+		"price": "10.699,90",
+		"oldPrice": "11.499,00",
+		"discountRatio": "7",
+		"productImage": "https://productimages.hepsiburada.net/s/76/280-413/110000018213526.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 48
+	},
+	{
+		"title": "Apple iPhone 12 - 12 Pro Silikon Kılıf MagSafe Kırmızı Erik - MHL23ZM/A",
+		"price": "499,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978353905714.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 49
+	},
+	{
+		"title": "Apple iPhone 12 Pro Max Silikon Kılıf MagSafe Derin Mavi - MHLD3ZM/A",
+		"price": "499,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/49/280-413/10978354954290.jpg",
+		"brand": "Apple",
+		"color": "Yeşil",
+		"id": 50
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone X 64 GB (12 Ay Garantili)",
+		"price": "5.419,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/6/280-413/9713620058162.jpg",
+		"brand": "Apple",
+		"color": "Beyaz",
+		"id": 51
+	},
+	{
+		"title": "Yenilenmiş Apple iPhone 5S 16 GB (6 Ay Garantili)",
+		"price": "869,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/5/280-413/9674343022642.jpg",
+		"brand": "Apple",
+		"color": "Beyaz",
+		"id": 52
+	},
+	{
+		"title": "Huawei P40 Lite 128 GB (Huawei Türkiye Garantili)",
+		"price": "4.400,00",
+		"oldPrice": null,
+		"discountRatio": null,
+		"productImage": "https://productimages.hepsiburada.net/s/43/280-413/10761037774898.jpg",
+		"brand": "Huawei",
+		"color": "Siyah",
+		"id": 53
+	},
+	{
+		"title": "Huaweı Band 6 - Grafit Siyahı",
+		"price": "527,04",
+		"oldPrice": "549,00",
+		"discountRatio": "4",
+		"productImage": "https://productimages.hepsiburada.net/s/75/280-413/110000016955891.jpg",
+		"brand": "Huawei",
+		"color": "Sarı",
+		"id": 54
+	},
+	{
+		"title": "Huawei Watch GT2 42mm Elegant Edition Akıllı Saat – Altın Rengi",
+		"price": "1.349,00",
+		"oldPrice": "1.632,65",
+		"discountRatio": "17",
+		"productImage": "https://productimages.hepsiburada.net/s/35/280-413/10471209009202.jpg",
+		"brand": "Huawei",
+		"color": "Siyah",
+		"id": 55
+	},
+	{
+		"title": "Huawei Y5 2019 16 GB (Huawei Türkiye Garantili)",
+		"price": "1.580,00",
+		"oldPrice": "1.999,00",
+		"discountRatio": "21",
+		"productImage": "https://productimages.hepsiburada.net/s/28/280-413/10220101074994.jpg",
+		"brand": "Huawei",
+		"color": "Yeşil",
+		"id": 56
+	},
+	{
+		"title": "Huawei Watch GT2 42mm Classic Akıllı Saat - Beyaz",
+		"price": "1.299,00",
+		"oldPrice": "1.531,94",
+		"discountRatio": "15",
+		"productImage": "https://productimages.hepsiburada.net/s/47/280-413/10915135586354.jpg",
+		"brand": "Huawei",
+		"color": "Siyah",
+		"id": 57
+	},
+	{
+		"title": "Huawei P20 Lite 64 GB (Huawei Türkiye Garantili)",
+		"price": "2.199,00",
+		"oldPrice": "2.999,00",
+		"discountRatio": "27",
+		"productImage": "https://productimages.hepsiburada.net/s/19/280-413/9826976137266.jpg",
+		"brand": "Huawei",
+		"color": "Beyaz",
+		"id": 58
+	},
+	{
+		"title": "Huawei Freebuds 4i Bluetooth Kulaklık Beyaz",
+		"price": "719,00",
+		"oldPrice": "754,09",
+		"discountRatio": "5",
+		"productImage": "https://productimages.hepsiburada.net/s/62/280-413/110000003361270.jpg",
+		"brand": "Huawei",
+		"color": "Beyaz",
+		"id": 59
+	}
+]

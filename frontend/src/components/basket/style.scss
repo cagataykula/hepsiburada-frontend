@@ -1,0 +1,115 @@
+.basket_wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  .basket_button {
+    width: 120px;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    background-color: #fff;
+    border: 1px solid #B0B0B0;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    color: #B0B0B0;
+    &.basket__detail-open {
+      position: relative;
+      &::after {
+        z-index: 1;
+        position: absolute;
+        content: ' ';
+        left: 0;
+        bottom: -2px;
+        width: 100%;
+        height: 5px;
+        background-color: #fff;
+      }
+      // border-bottom-left-radius: 0;
+      // border-bottom-right-radius: 0;
+      // border-bottom-color: #fff;
+    }
+    .basket_item-count {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: absolute;
+      border-radius: 50%;
+      background-color: #FF6000;
+      width: 20px;
+      height: 20px;
+      color: #fff;
+      top: -10px;
+      right: -10px;
+      font-family: Roboto;
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 12px;
+      letter-spacing: 0em;
+      text-align: center;
+
+    }
+  }
+
+  .dropdown {
+    position: absolute;
+    top: 70%;
+    border: 1px solid #B0B0B0;
+    width: 300px;
+    right: 0;
+    min-height: 50px;
+    background-color: #fff;
+    padding: 16px;
+    border-radius: 4px;
+    border-top-right-radius: 0;
+    z-index: 2;
+      .dropdown-item {
+        display: flex;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        .item-image {
+          width: 54px;
+          height: 72px;
+          margin-right: 20px;
+          cursor: pointer;
+          img { 
+            border: 1px solid #E5E5E5;
+            width: 100%;
+          }
+        }
+        .item-informations {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          .item-name {
+            width: 170px;
+            font-family: Roboto;
+            font-size: 12px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 18px;
+            letter-spacing: 0em;
+            text-align: left;
+            cursor: pointer;
+          }
+          .remove-dropdown-item {
+            cursor: pointer;
+            border: 1px solid #F90000;
+            color: #F90000;
+            font-family: Roboto;
+            font-size: 10px;
+            font-style: normal;
+            font-weight: 400;
+            padding: 5px;
+            width: fit-content;
+            border-radius: 4px;
+   
+          }
+        }
+      }
+    }
+}

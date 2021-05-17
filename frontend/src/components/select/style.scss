@@ -1,0 +1,22 @@
+.select-wrapper {
+  select {
+    width: 120px;
+    height: 42px;
+    outline: none;
+    border: 1px solid #B4B4BB;    
+    border-radius: 4px;
+    padding: 5px 25px 5px 15px;
+    color: #B0B0B0;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    -moz-appearance:none; /* Firefox */
+    -webkit-appearance:none; /* Safari and Chrome */
+    appearance:none;
+    background-image: url('./images/arrow.png');
+    background-repeat: no-repeat;
+    background-position-x: 90%;
+    background-position-y: 50%;  
+  }
+}

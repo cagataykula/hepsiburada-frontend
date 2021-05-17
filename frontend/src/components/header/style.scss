@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  height: 90px;
+  padding: 0 30px;
+  box-shadow: 0px 1px 1px 0px #00000059;
+  
+  .logo_wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .logo {
+      width: 12rem;
+    }
+  }
+}

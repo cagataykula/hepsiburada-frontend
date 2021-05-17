@@ -1,0 +1,101 @@
+.product-wrapper {
+  width: 254px;
+  margin: 0 10px 10px;
+  position: relative;
+  border: 1px solid transparent;
+  &:hover {
+    border: 1px solid #eee;
+    border-radius: 10px;
+    .product-image {
+      border: none;
+    }
+    .product-information {
+      .product-brand, .product-color, .product-price {
+        visibility: hidden;
+      }
+      .add-to-basket {
+        visibility: visible;
+      }
+    }
+  }
+	.product-image {
+		display: flex;
+    align-items: center;
+    justify-content: center;
+		width: 100%;
+		border: 1px solid #e5e5e5;
+		border-radius: 10px;
+		img {
+			width: 85%;
+			padding: 20px;
+		}
+	}
+	.product-information {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		padding-left: 15px;
+		padding-right: 15px;
+		margin-top: 5px;
+    position: relative;
+		.product-title {
+			font-family: Roboto;
+			font-size: 12px;
+			font-style: normal;
+			font-weight: 400;
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+		.product-brand,
+		.product-color {
+			font-family: Roboto;
+			font-size: 12px;
+			font-style: normal;
+			line-height: 18px;
+		}
+		.product-price {
+			font-family: Roboto;
+			font-size: 14px;
+			font-style: normal;
+			font-weight: 700;
+			.old-price {
+				margin-top: 3px;
+				color: #9b9b9b;
+				font-family: Roboto;
+				font-size: 13px;
+				font-style: normal;
+				font-weight: 400;
+				text-decoration-line: line-through;
+			}
+			.discount-ratio {
+				text-decoration-line: none;
+				color: #f90000;
+				font-family: Roboto;
+				font-size: 12px;
+				font-style: normal;
+				font-weight: 700;
+        margin-left: 5px;
+			}
+		}
+    .add-to-basket {
+      bottom: 0;
+      left: 0;
+      width: calc(100% - 40px);
+      margin-left: 10px;
+      position: absolute;
+      visibility: hidden;
+      cursor: pointer;
+      background-color: #FCEEE4;
+      color: #EE6A2C;
+      padding: 10px;
+      display: flex;
+      justify-content: center;
+      border-radius: 10px;
+			&.disabled {
+				background-color: #EEEEEE;
+				color: #B0B0B0;
+				font-size: 14px;
+			}
+    }
+	}
+}
