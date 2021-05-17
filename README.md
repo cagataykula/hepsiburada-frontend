@@ -2,6 +2,9 @@
 
 This is a test case for Hepsitech.
 
+![screencapture-localhost-3005-2021-05-17-23_51_09](https://user-images.githubusercontent.com/36194319/118554975-cc7b9680-b76a-11eb-87ab-79b294cbd191.png)
+
+
 ## Summary
 
 I know Vue.js and i could made this case easiliy with Vue.js but i wanted to try myself in React.js. Because of that i used React.js for Frontend. I used Express.js for backend. I couldnt figured out how i'm gonna do filters for page. Firstly i tried to manage filters from backend but i thought it would take time. Right now, backend is only providing mock data for frontend with search by keyword feature. All filters is managing by frontend.
